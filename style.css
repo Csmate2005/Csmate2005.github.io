@@ -11,3 +11,24 @@
 .kep{
     width: 75%;
 }
+
+.fel{
+    float: right;
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 90px;
+    padding: 2px;
+    background-color: black;
+}
+
+#a{
+    text-decoration: none;
+    color: white;
+}
+
+#a:hover{
+    color: chocolate;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
