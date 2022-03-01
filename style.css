@@ -32,3 +32,21 @@
     font-weight: bold;
     font-style: italic;
 }
+
+.forras{
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    padding: 2px;
+    text-align: right;
+    background-color: black;
+}
+
+.forras:hover{
+    color: chocolate;
+    font-weight: bold;
+    text-decoration: underline;
+}
