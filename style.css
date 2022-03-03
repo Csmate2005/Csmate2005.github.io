@@ -63,5 +63,10 @@ footer{
     background-color: black;
     opacity: 50%;
     color: white;
-    width: 1700px;
+    width: 800px;
+    height: 300px;
+}
+.felsorolas{
+text-decoration: underline;
+font-weight: bold;
 }
